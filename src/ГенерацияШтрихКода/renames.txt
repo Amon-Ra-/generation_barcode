@@ -1,0 +1,11 @@
+﻿06dae9d4-5beb-4884-b09a-528a85c2121f-->und\06dae9d4-5beb-4884-b09a-528a85c2121f
+copyinfo-->und\copyinfo
+d90a36a0-0ba8-4a9b-a71d-110b9f1596b1.0\info-->und\d90a36a0-0ba8-4a9b-a71d-110b9f1596b1.0\info
+d90a36a0-0ba8-4a9b-a71d-110b9f1596b1.0\text-->ObjectModule.txt
+fe84a26c-a5a6-4184-bf6b-26b6fa30c682-->und\fe84a26c-a5a6-4184-bf6b-26b6fa30c682
+fe84a26c-a5a6-4184-bf6b-26b6fa30c682.0-->Form\ФормаРучнойГенерации\Форма.txt
+fe84a26c-a5a6-4184-bf6b-26b6fa30c682.0-->und\fe84a26c-a5a6-4184-bf6b-26b6fa30c682.0
+fe84a26c-a5a6-4184-bf6b-26b6fa30c682.0-->und\fe84a26c-a5a6-4184-bf6b-26b6fa30c682.0
+root-->und\root
+version-->und\version
+versions-->und\versions
